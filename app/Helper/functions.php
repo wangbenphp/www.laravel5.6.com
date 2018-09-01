@@ -1,6 +1,11 @@
 <?php
 
 /**
+ * 系统全局自定义助手函数
+ * @author WangBen
+ */
+
+/**
  * ObjectToArray
  * @author wangben
  */
